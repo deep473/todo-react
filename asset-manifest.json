@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deep473/todo-react/static/css/main.a9a1ef07.css",
+    "main.js": "/deep473/todo-react/static/js/main.d2eef229.js",
+    "index.html": "/deep473/todo-react/index.html",
+    "main.a9a1ef07.css.map": "/deep473/todo-react/static/css/main.a9a1ef07.css.map",
+    "main.d2eef229.js.map": "/deep473/todo-react/static/js/main.d2eef229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9a1ef07.css",
+    "static/js/main.d2eef229.js"
+  ]
+}
